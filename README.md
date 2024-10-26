@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Imad-Dz31
+- 👀 I am interested in 2D games industry.
+- 🌱 I am currently learning everything about the Godot platform (programming-design-drawing)
